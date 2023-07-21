@@ -24,8 +24,9 @@
     	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
   </p>
-</p>
 
+
+<br>
 <br>
 
 ## Projeto Final - Crimes em SP
