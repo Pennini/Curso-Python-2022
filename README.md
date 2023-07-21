@@ -3,6 +3,7 @@
   <h2 align="center"><a href="https://linktr.ee/fea.dev">FEA.DEV</a></h2>
   <h2 align="center">Curso de Python de 2023 - Grupo 2
   
+  
 <div align="center">
 
   <a href="">[![GitHub Badge](https://img.shields.io/badge/Adriel_Faustino-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aF4ust)</a>
