@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#F8E91F&height=120&section=header"/>
+
 <p align="center">
   <img src="https://github.com/Pennini/CursoPython-Grupo2/assets/135245057/cb7e4379-704c-48aa-b46f-0bacddda6b0c" height="128">
   <h2 align="center"><a href="https://linktr.ee/fea.dev">FEA.DEV</a></h2>
