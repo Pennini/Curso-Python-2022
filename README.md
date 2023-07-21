@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Pennini/CursoPython-Grupo2/assets/135245057/cb7e4379-704c-48aa-b46f-0bacddda6b0c" height="128">
   <h2 align="center"><a href="https://linktr.ee/fea.dev">FEA.DEV</a></h2>
-  <h2 align="center">Curso de Python de 2023 - Grupo 2 </h2>
+  <h2 align="center">Curso de Python de 2023 - Grupo 2
   
 <div align="center">
 
