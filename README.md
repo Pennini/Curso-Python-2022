@@ -4,7 +4,11 @@
   <h2 align="center">Curso de Python de 2023 - Grupo 2 </h2>
   
   [<h1 align="center">
-  [![GitHub Badge](https://img.shields.io/badge/Adriel_Faustino-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aF4ust) [![GitHub Badge](https://img.shields.io/badge/André_Pennini-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Pennini) [![GitHub Badge](https://img.shields.io/badge/Fernanda_Mayumi-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/fernandamay) [![GitHub Badge](https://img.shields.io/badge/Fernanda_Mees-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/feehmees) [![GitHub Badge](https://img.shields.io/badge/Vitor_Tatiama-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vitor-tatiama)
+  [![GitHub Badge](https://img.shields.io/badge/Adriel_Faustino-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aF4ust) 
+  [![GitHub Badge](https://img.shields.io/badge/André_Pennini-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Pennini) 
+  [![GitHub Badge](https://img.shields.io/badge/Fernanda_Mayumi-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/fernandamay) 
+  [![GitHub Badge](https://img.shields.io/badge/Fernanda_Mees-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/feehmees) 
+  [![GitHub Badge](https://img.shields.io/badge/Vitor_Tatiama-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vitor-tatiama)
 </h1>
 
  <p>
