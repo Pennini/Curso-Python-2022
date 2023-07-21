@@ -2,8 +2,7 @@
   <img src="https://github.com/Pennini/CursoPython-Grupo2/assets/135245057/cb7e4379-704c-48aa-b46f-0bacddda6b0c" height="128">
   <h2 align="center"><a href="https://linktr.ee/fea.dev">FEA.DEV</a></h2>
   <p align="center">Curso de Python de 2023 - Grupo 2 <p>
-[![GitHub Badge](https://img.shields.io/badge/Adriel_Faustino-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aF4ust) [![GitHub Badge](https://img.shields.io/badge/André_Pennini-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Pennini) [![GitHub Badge](https://img.shields.io/badge/Fernanda_Mayumi-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/fernandamay) [![GitHub Badge](https://img.shields.io/badge/Fernanda_Mees-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/feehmees) [![GitHub Badge](https://img.shields.io/badge/Vitor_Tatiama-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vitor-tatiama)
-
+  <p align="center">Adriel Faustino, André Pennini, Fernanda Mayumi, Fernanda Mees e Vitor Tatiama 
  <p>
   <p align="center">
     <a href="https://www.youtube.com/playlist?list=PLiJqHBsOKi2cnuiboIPL68Cr2x3CGqnXL">
