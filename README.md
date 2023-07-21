@@ -24,6 +24,10 @@
 
 <br>
 
+## Projeto Final - Crimes em SP
+
+Análise e manipulação de dados referentes a crimes no estado de São Paulo a partir dos conhecimentos adquiridos durante o Curso de Python  FEA.dev a fim de testar hipóteses e inferir fatos que serão apresentados publicamente.
+
 ## Listas:
 
 * Atribuição e estruturas de variáveis
