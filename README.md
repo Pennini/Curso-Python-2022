@@ -34,7 +34,7 @@ The list was moved to GitHub by Victor Felder for collaborative updating and mai
 
 <div align="center" markdown="1">
 
-[![GitHub repo forks](https://img.shields.io/github/forks/Peninni?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/Peninni/network)&#160;
+[![GitHub repo forks](https://img.shields.io/github/forks/Pennini?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/Peninni/network)&#160;
 [![GitHub repo stars](https://img.shields.io/github/stars/EbookFoundation/CursoPython-Grupo2?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/EbookFoundation/CursoPython-Grupo2/stargazers)&#160;
 [![GitHub repo contributors](https://img.shields.io/github/contributors-anon/EbookFoundation/CursoPython-Grupo2?style=flat&logo=github&logoColor=whitesmoke&label=Contributors)](https://github.com/EbookFoundation/CursoPython-Grupo2/graphs/contributors)    
 [![GitHub org sponsors](https://img.shields.io/github/sponsors/EbookFoundation?style=flat&logo=github&logoColor=whitesmoke&label=Sponsors)](https://github.com/sponsors/EbookFoundation)&#160;
